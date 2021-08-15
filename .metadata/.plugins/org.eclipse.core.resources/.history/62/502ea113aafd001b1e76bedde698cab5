@@ -1,0 +1,19 @@
+package com.practiseproblems.calculator;
+import java.util.Scanner;
+
+public class Calculator {
+	
+	private double first,second,resultnumerator,denominator,result;
+	
+	private double addition(first_number,second_number)
+	{
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner scanner = new Scanner(System.in);
+
+	}
+
+}

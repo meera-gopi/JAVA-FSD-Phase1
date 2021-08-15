@@ -1,0 +1,21 @@
+package com.practiseproblems.calculator;
+import java.util.Scanner;
+
+public class Calculator {
+	
+	private double first,second,resultnumerator,denominator,result;
+	
+	public void additon()
+	{
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stubC
+		
+		
+		Scanner scanner = new Scanner(System.in);
+		
+
+	}
+
+}
